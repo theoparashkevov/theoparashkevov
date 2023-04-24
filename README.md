@@ -27,7 +27,6 @@
 <h3 align="left"> Latest Medium Blog Posts: </h3>
 
 # Blog posts
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
