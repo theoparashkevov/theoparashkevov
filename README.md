@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theoparashkevov&label=Profile%20views&color=0e75b6&style=flat" alt="theoparashkevov" /> </p>
 
-- 🔭 I’m currently working on [Python-VNC](https://github.com/theoparashkevov/Python-VNC)
+- 🔭 I’m currently working on [Python-VNC](https://github.com/theoparashkevov/Python-VNC), [Python Learning Materials](https://github.com/theoparashkevov/python-learning-materials)
 
 - 👨‍💻 All of my projects are available at [https://github.com/theoparashkevov?tab=repositories](https://github.com/theoparashkevov?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@theo.parashkevov](https://medium.com/@theo.parashkevov)
 
-- 💬 Ask me about **ML, Python**
+- 💬 Ask me about **ML, Python, Linux, System Administration, AWS**
 
 - 📫 How to reach me **theo.parashkevov@gmail.com**
 
