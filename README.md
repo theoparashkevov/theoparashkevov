@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theoparashkevov&theme=transparent" alt="theoparashkevov" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" alt="theoparashkevov" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=theoparashkevov&show_icons=true&theme=transparent" alt="theoparashkevov" /></p>
