@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theoparashkevov&label=Profile%20views&color=0e75b6&style=flat" alt="theoparashkevov" /> </p>
 
-- 🔭 I’m currently working on [Python-VNC](https://github.com/theoparashkevov/Python-VNC), [Python Learning Materials](https://github.com/theoparashkevov/python-learning-materials)
+- 🔭 I’m currently working on 
+
+  - [Python-VNC](https://github.com/theoparashkevov/Python-VNC)
+
+  - [Python Learning Materials](https://github.com/theoparashkevov/python-learning-materials)
 
 - 👨‍💻 All of my projects are available [here](https://github.com/theoparashkevov?tab=repositories)
 
