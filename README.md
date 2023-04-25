@@ -17,9 +17,15 @@
 
 - ⚡ Fun fact **(我会说中文) I know Chinese**
 
+---
+
+<h3 align="left">Configuration repositories</h3>
+
 - 🚧 EMACS Configuration [emacs-config](https://github.com/theoparashkevov/emacs-config)
 
-- 🚧 QTile Configuration [emacs-config](https://github.com/theoparashkevov/qtile-config)
+- 🪟 QTile Configuration [qtile-config](https://github.com/theoparashkevov/qtile-config)
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
