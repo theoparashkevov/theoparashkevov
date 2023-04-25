@@ -28,11 +28,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Data Structures] Linked List](https://medium.com/@theo.parashkevov/data-structures-linked-list-57e617d10142?source=rss-31325f5591db------2)
 - [[Data Structures] Hash table](https://medium.com/@theo.parashkevov/data-structures-hash-table-41aa58fd81df?source=rss-31325f5591db------2)
 - [[C programming] Resource management system using Telegram Bot](https://medium.com/the-code-vault/c-programming-resource-management-system-using-telegram-bot-6c92ec462d0f?source=rss-31325f5591db------2)
 - [[Data Structures] Distributed hash table](https://medium.com/the-code-vault/data-structures-distributed-hash-table-febfd01fc0af?source=rss-31325f5591db------2)
 - [[Privacy] Web browser user agents](https://medium.com/the-code-vault/privacy-web-browser-user-agents-b4e9fd38a0d0?source=rss-31325f5591db------2)
-- [[Systemd] simple service examples](https://medium.com/the-code-vault/systemd-simple-service-examples-ce586afeed27?source=rss-31325f5591db------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
