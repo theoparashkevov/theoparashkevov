@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [Python-VNC](https://github.com/theoparashkevov/Python-VNC), [Python Learning Materials](https://github.com/theoparashkevov/python-learning-materials)
 
-- 👨‍💻 All of my projects are available at [https://github.com/theoparashkevov?tab=repositories](https://github.com/theoparashkevov?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/theoparashkevov?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@theo.parashkevov](https://medium.com/@theo.parashkevov)
+- 📝 I regularly write articles on [Medium](https://medium.com/@theo.parashkevov)
 
 - 💬 Ask me about **ML, Python, Linux, System Administration, AWS**
 
 - 📫 How to reach me **theo.parashkevov@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/teo-parashkevov/](https://www.linkedin.com/in/teo-parashkevov/)
+- 📄 Know about my experiences from [here](https://www.linkedin.com/in/teo-parashkevov/)
 
 - ⚡ Fun fact **(我会说中文) I know Chinese**
 
