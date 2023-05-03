@@ -31,6 +31,12 @@
 
 ---
 
+<h3 align="left">My Lists</h3>
+- [Web Scrapers](https://github.com/stars/theoparashkevov/lists/web-scrapers)
+- [ML](https://github.com/stars/theoparashkevov/lists/ml)
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/teo-parashkevov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teo-parashkevov" height="30" width="40" /></a>
