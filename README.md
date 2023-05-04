@@ -33,15 +33,9 @@
 
 <h3 align="left">My Lists</h3>
 
-| TTT      | ZZZ | XXX     |
+| 🚨      | 🛑 | 🚨     |
 | :---        |    :----:   |          ---: |
 | [Web Scrapers](https://github.com/stars/theoparashkevov/lists/web-scrapers)      | [ML](https://github.com/stars/theoparashkevov/lists/ml)       | [Data Science](https://github.com/stars/theoparashkevov/lists/data-science)   |
-
-
-
-- 
-
-- 
 
 ---
 
