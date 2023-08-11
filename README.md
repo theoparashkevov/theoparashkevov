@@ -50,11 +50,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering the Craft: Unveiling the Power of Design Patterns in Python](https://medium.com/@theo.parashkevov/mastering-the-craft-unveiling-the-power-of-design-patterns-in-python-8e429b332d86?source=rss-31325f5591db------2)
 - [[Data Structures] Binary Tree](https://medium.com/@theo.parashkevov/data-structures-binary-tree-55d0e55e0b3e?source=rss-31325f5591db------2)
 - [[Data Structures] Linked List](https://medium.com/@theo.parashkevov/data-structures-linked-list-57e617d10142?source=rss-31325f5591db------2)
 - [[Data Structures] Hash table](https://medium.com/@theo.parashkevov/data-structures-hash-table-41aa58fd81df?source=rss-31325f5591db------2)
 - [[C programming] Resource management system using Telegram Bot](https://medium.com/the-code-vault/c-programming-resource-management-system-using-telegram-bot-6c92ec462d0f?source=rss-31325f5591db------2)
-- [[Data Structures] Distributed hash table](https://medium.com/the-code-vault/data-structures-distributed-hash-table-febfd01fc0af?source=rss-31325f5591db------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
