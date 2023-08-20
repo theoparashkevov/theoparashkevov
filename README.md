@@ -50,11 +50,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Systemd] systemctl manual](https://medium.com/@theo.parashkevov/systemd-systemctl-manual-c47da5cf8439?source=rss-31325f5591db------2)
+- [[Data Structure] Binary Trees &lpar;2&rpar;](https://medium.com/@theo.parashkevov/data-structure-binary-trees-2-f7a4da5d4a65?source=rss-31325f5591db------2)
 - [[Systemd] Units made simple](https://medium.com/@theo.parashkevov/systemd-units-made-simple-39d7e35cd835?source=rss-31325f5591db------2)
 - [Mastering the Craft: Unveiling the Power of Design Patterns in Python](https://medium.com/@theo.parashkevov/mastering-the-craft-unveiling-the-power-of-design-patterns-in-python-8e429b332d86?source=rss-31325f5591db------2)
 - [[Data Structures] Binary Tree](https://medium.com/@theo.parashkevov/data-structures-binary-tree-55d0e55e0b3e?source=rss-31325f5591db------2)
-- [[Data Structures] Linked List](https://medium.com/@theo.parashkevov/data-structures-linked-list-57e617d10142?source=rss-31325f5591db------2)
-- [[Data Structures] Hash table](https://medium.com/@theo.parashkevov/data-structures-hash-table-41aa58fd81df?source=rss-31325f5591db------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
